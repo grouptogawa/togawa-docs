@@ -1,0 +1,7 @@
+.dark {
+    --vp-c-brand-1: rgb(148, 226, 213);
+}
+.VPFooter {
+    border-top: none !important; /* Ensure border-top does not display */
+    box-shadow: 0 -4px 16px -8px rgba(255,255,255,0.1); /* Add top white shadow */
+}
