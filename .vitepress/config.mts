@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   srcDir: "docs",
+  base: "/togawa-docs/",
 
   title: "Togawa Group Docs",
   description: "Togawa Group 的项目的共用文档站",
