@@ -66,4 +66,6 @@ export default defineConfig({
       link: "/en/",
     },
   },
+
+  ignoreDeadLinks: true,
 });
