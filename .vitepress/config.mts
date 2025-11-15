@@ -36,6 +36,8 @@ export default defineConfig({
             { text: "快速开始", link: "/umiri/quick-start" },
             { text: "事件定义", link: "/umiri/event" },
             { text: "事件处理", link: "/umiri/handler" },
+            { text: "注册&发布", link: "/umiri/publish" },
+            { text: "中间件", link: "/umiri/middleware" },
           ],
         },
         {

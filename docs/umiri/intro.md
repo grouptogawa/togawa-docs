@@ -1,12 +1,8 @@
----
-title: Umiri 是什么？
----
-
 # Umiri 是什么？
 
 [Umiri](https://github.com/grouptogawa/umiri) 是一个轻量级的事件总线实现，无任何依赖，基于优先级机制和异步的处理模式，类型友好。
 
-很大程度上参考了 [NoneBot2](https://nonebot.dev/) 的事件处理设计。
+很大程度上参考了 [NoneBot2](https://nonebot.dev/) 的事件处理方式。
 
 ## ⚡ 特性
 
